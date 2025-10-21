@@ -1,7 +1,7 @@
 import { ArrowRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import hospital from "../assets/images/hospital.jpg";
-import professionalTeam from "../assets/images/professionalTeam.jpg";
+import hospital from "@/assets/images/hospital.jpg";
+import professionalTeam from "@/assets/images/professionalTeam.jpg";
 const ProfessionalsSection = () => {
   return (
     <section className="relative py-12 sm:py-16 lg:py-20 overflow-hidden">
