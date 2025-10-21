@@ -1,7 +1,7 @@
 import { ArrowRight, Phone, Menu } from "lucide-react";
 import { Button } from '@/components/ui/button';
-import hero from "../../assets/images/hero.jpg";
-import hero2 from "../../assets/images/hero-2.jpg";
+import hero from "../assets/images/hero.jpg";
+import hero2 from "../assets/images/hero-2.jpg";
 const HeroSection = () => {
   return (
     <section className="relative bg-gradient-to-br from-teal-50 via-cyan-50 to-blue-50 overflow-hidden">

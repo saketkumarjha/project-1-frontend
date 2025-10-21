@@ -1,6 +1,6 @@
 import { ArrowRight } from 'lucide-react';
 import { Button } from '@/components/ui/button';
-import doctorTeam from "../../assets/images/doctorTeam.jpg";
+import doctorTeam from "../assets/images/doctorTeam.jpg";
 const AboutSection = () => {
   return (
     <section className="relative bg-gradient-to-br from-teal-50 via-cyan-50 to-blue-50 py-12 sm:py-16 lg:py-20 overflow-hidden">
